@@ -1,0 +1,7 @@
+chrome://settings/signOut must not be blocked by policy to use this method.
+Navigate to chrome://settings/signOut.
+Click Turn off in the Turn off sync and personalization? dialog.
+Run chrome://restart in the address bar.
+Visit tinyurl.com/AddSession.
+Add your managed Google account to access Google services.
+All extensions should stop working after performing this exploit.
