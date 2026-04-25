@@ -1,1 +1,6 @@
-
+Visit chrome://settings/content/all
+Find google.com
+Click the trashcan button
+Click delete
+Go to chrome://extensions and find securly (or whatever other extension)
+Click the “ Allow access to file URLs “ switch Now you can go to the link and add the account back if you want, but not necessary.
